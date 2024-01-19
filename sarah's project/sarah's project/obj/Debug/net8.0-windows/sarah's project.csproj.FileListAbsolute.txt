@@ -1,0 +1,82 @@
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah's project.csproj.AssemblyReference.cache
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah_s_project.Form1.resources
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah_s_project.mainform.resources
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah_s_project.signup.resources
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah_s_project.users.resources
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah's project.csproj.GenerateResource.cache
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah's project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah's project.AssemblyInfoInputs.cache
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah's project.AssemblyInfo.cs
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah's project.csproj.CoreCompileInputs.cache
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\sarah's project.exe
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\sarah's project.deps.json
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\sarah's project.runtimeconfig.json
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\sarah's project.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\sarah's project.pdb
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Akamai.EdgeGrid.Auth.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Azure.Security.KeyVault.Keys.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\DBHelper.MAUI.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\DBHelper.NET.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Elastic.Apm.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Elastic.Apm.SqlClient.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\fm.EntityFrameworkCore.Relational.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\fm.Extensions.Common.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.AlwaysEncrypted.AzureKeyVaultProvider.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\T4Query.SqlServer.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\TNX.Reactive.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.AlwaysEncrypted.AzureKeyVaultProvider.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.AlwaysEncrypted.AzureKeyVaultProvider.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win7-x64\native\sni.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win7-x86\native\sni.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah's project.csproj.CopyComplete
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah's project.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\refint\sarah's project.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah's project.pdb
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah's project.genruntimeconfig.cache
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\ref\sarah's project.dll
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah_s_project.payment.resources
+C:\Users\Fanoos\source\repos\sarah's project\sarah's project\obj\Debug\net8.0-windows\sarah_s_project.Properties.Resources.resources
